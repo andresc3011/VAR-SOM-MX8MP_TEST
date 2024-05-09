@@ -1,0 +1,14 @@
+**FORMAT**
+-gpio name, direction (in or out), active_low (1 or 0)
+
+**EXAMPLE**
+-GPIO3_IO00, in, 0
+
+
+------Start------
+GPIO3_IO01, out, 0
+GPIO3_IO14, out, 0
+GPIO4_IO29, out, 1
+GPIO4_IO31, in, 1
+GPIO5_IO00, out, 1
+-------End------- 
